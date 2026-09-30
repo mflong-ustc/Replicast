@@ -1,0 +1,1 @@
+./../../run_switchd.sh -p replicast  --arch tf2

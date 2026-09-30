@@ -1,0 +1,21 @@
+ucli
+pm
+port-del -/-
+port-add 9/- 100G RS
+port-add 10/- 100G RS
+port-add 11/- 100G RS
+port-add 12/- 100G RS
+port-add 13/- 100G RS
+
+
+port-add 17/- 100G RS
+port-add 18/- 100G RS
+port-add 19/- 100G RS
+port-add 20/- 100G RS
+port-add 21/- 100G RS
+port-add 22/- 100G RS
+
+
+port-enb -/-
+exit
+exit
